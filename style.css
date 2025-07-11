@@ -356,7 +356,7 @@ section{
     align-items: center;
     justify-content: center;
     text-align: center;
-    background-image: url("../assets/sponge.jpg");
+    background-image: url("assets/sponge.jpg");
     background-size: cover;
     background-position: center;
     border-radius: 30px;
